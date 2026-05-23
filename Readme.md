@@ -92,6 +92,7 @@ python3 main.py
 - Requires internet for translation, LLM, and TTS
 - Works with a small dataset (products.json)
 - Linux requires audio dependencies for microphone and speaker
+- 
+This project was created in collaboration with [Superteams.ai](https://superteams.ai).
 
-## License
-This project is for educational purposes.
+The collaboration involved contributing technical content, sharing insights, and building projects/blogs focused on learning, innovation, and community engagement in the tech ecosystem.
